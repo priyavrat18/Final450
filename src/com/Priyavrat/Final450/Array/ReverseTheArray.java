@@ -1,4 +1,4 @@
-package com.Priyavrat.Final450;
+package com.Priyavrat.Final450.Array;
 
 public class ReverseTheArray {
 	//in this program u need to reverse the given array
