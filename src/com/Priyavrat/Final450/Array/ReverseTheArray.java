@@ -29,5 +29,24 @@ public class ReverseTheArray {
 		}
 		return b;
 	}
+	
+	
+	/*
+	 * 
+	 * If we want to do this program with some other approach , more on the logical side then we can do 
+	 * one thing----
+	 * while(start<end){
+	 * 		temp = start
+	 * start=end
+	 * end =temp
+	 * start++;
+	 * end--;
+	 * }
+	 * 
+	 * this will reverse the array.
+	 * 
+	 * 
+	 * */
+	 */
 
 }
